@@ -1,0 +1,37 @@
+.headerBox {
+    margin: 2px;
+    width: 485px;
+    height: 60px;
+    background-color: green;
+}
+
+.navigationBox {
+    margin: 2px;
+    width: 80px;
+    height: 220px;
+    background-color: blue;
+}
+
+.mainBox {
+    margin: 2px;
+    padding: 4px;
+    display: flex;
+    flex-direction: column;
+    width: 400px;
+    height: 280px;
+    background-color: red;
+}
+
+.subcontentBox {
+    flex: auto;
+    margin: 4px;
+    height: 200px;
+    background-color: yellow;
+}
+
+.advertisementBox {
+    margin: 4px;
+    width: auto;
+    height: 60px;
+    background-color: rebeccapurple;
+}
